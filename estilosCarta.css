@@ -8,6 +8,8 @@ body{
     background-image: url(imagenes/fondo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    width: 100vw;
+    height: 250vh;
 }
 h1{
     text-align: center;
